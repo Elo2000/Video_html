@@ -1,0 +1,75 @@
+.one{
+  background-color: black;
+}
+#button1{
+  width: 20px;
+    height: 20px;
+}
+button {
+    background-color:yellow;
+    border: black;
+    color: black;
+    text-align: right;
+  }
+#S{
+  text-align: right;
+}
+#star{
+  width: 20px;
+  height: 20px;
+  text-align: right;
+}
+#img1{
+  width: 200px;
+  height: 370px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li {
+  float: left;
+  border-right: 1px solid #bbb;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li:last-child {
+  border-right: none;
+}
+
+#watch{
+  background-color: blue;
+}
+.one input[type=text]{
+      text-align:left;
+      width: 400px;
+  }
+.two{
+  background-color:grey;
+}
+.three{
+  background-color:grey;
+}
+.H{
+  border-color:white;
+}
+
+h2{
+  display:inline;
+  }
+h4{
+  display:inline;
+  }
+
+
